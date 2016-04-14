@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsisunivers00allegoog_0301.png"; bbox 0 0 2694 4671; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 666 235 2002 393">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 666 235 2005 393">
+     <span class='ocr_line' id='line_1_1' title="bbox 666 235 2002 393; baseline -0.007 -29"><span class='ocrx_word' id='word_1_1' title='bbox 666 312 795 393; x_wconf 78' lang='lat'>290</span> <span class='ocrx_word' id='word_1_2' title='bbox 918 284 1094 327; x_wconf 53' lang='lat'>&#39;¹¹</span> <span class='ocrx_word' id='word_1_3' title='bbox 1256 235 2002 381; x_wconf 57' lang='lat' dir='ltr'><strong><em>HJ&#39;DROPS.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 322 424 2594 583">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 322 424 2594 583">
+     <span class='ocr_line' id='line_1_2' title="bbox 324 424 2594 540; baseline -0.001 -29"><span class='ocrx_word' id='word_1_4' title='bbox 324 442 620 540; x_wconf 54' lang='lat' dir='ltr'>memiana</span> <span class='ocrx_word' id='word_1_5' title='bbox 812 424 950 513; x_wconf 73' lang='lat' dir='ltr'><em>Art.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 972 465 1068 512; x_wconf 73' lang='lat'>22.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1120 432 1228 509; x_wconf 83' lang='lat' dir='ltr'>Ad</span> <span class='ocrx_word' id='word_1_8' title='bbox 1270 444 1674 509; x_wconf 85' lang='lat' dir='ltr'>curationem</span> <span class='ocrx_word' id='word_1_9' title='bbox 1715 442 1936 513; x_wconf 80' lang='lat' dir='ltr'>ntimo</span> <span class='ocrx_word' id='word_1_10' title='bbox 1978 429 2153 506; x_wconf 81' lang='lat' dir='ltr'>fluor</span> <span class='ocrx_word' id='word_1_11' title='bbox 2177 433 2594 508; x_wconf 76' lang='lat' dir='ltr'>conciliandus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 322 541 494 583; baseline -0.006 -3"><span class='ocrx_word' id='word_1_12' title='bbox 322 541 494 583; x_wconf 56' lang='lat' dir='ltr'>Cfflm‘l</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 329 3296 494 3417">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 329 3296 494 3417">
+     <span class='ocr_line' id='line_1_4' title="bbox 329 3296 494 3347; baseline 0 -1"><span class='ocrx_word' id='word_1_13' title='bbox 329 3296 459 3346; x_wconf 73' lang='lat' dir='ltr'>Laus</span> <span class='ocrx_word' id='word_1_14' title='bbox 485 3314 494 3347; x_wconf 79' lang='grc'>1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 330 3364 494 3417; baseline 0.012 -2"><span class='ocrx_word' id='word_1_15' title='bbox 330 3367 396 3415; x_wconf 68' lang='lat' dir='ltr'>rii</span> <span class='ocrx_word' id='word_1_16' title='bbox 422 3364 494 3417; x_wconf 68' lang='lat' dir='ltr'>dud</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
